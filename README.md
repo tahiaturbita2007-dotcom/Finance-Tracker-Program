@@ -1,7 +1,7 @@
 # Finance-Tracker-Program
 Welcome to our C program which creates the user's finance plan, tracks his/her daily expenditure and rewards with virtual coins for fulfilling savings' target, creating a game type environment just for fun. Let's introduce you all to the description of it....
 
-# 💰 Personal Finance Tracker in C
+# 💰 Finance Tracker in C
 
 A comprehensive, interactive console-based personal finance management system written in pure **C**. This application helps users track monthly budgets, establish savings goals, allocate expenses across custom spending spheres, and monitor daily financial health through a gamified feedback system.
 
